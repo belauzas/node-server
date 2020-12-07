@@ -1,0 +1,5 @@
+main {
+    min-height: calc(100vh - 160px);
+    padding: 40px;
+    font-size: 80px;
+}
